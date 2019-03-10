@@ -3,6 +3,10 @@ package demo;
 import classes.House;
 import classes.TV;
 
+//1. Create ability to have 3 Rooms in a House;
+//2. Each Room should contain TV, table, chair, sofa.
+//3. Crete one house for Molly, one for Tom and one for Jim.
+
 public class DemoHouse {
 
     public static void main(String[] args) {
