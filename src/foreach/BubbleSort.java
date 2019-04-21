@@ -6,7 +6,7 @@ public class BubbleSort {
         int[] arr = {34, 12, 44, 2, 3, 6, 1, 23, 48, 13};
 
 
-        for(int j = 0; j < arr.length-1; j++) {
+        for(int j = 0; j < arr.length; j++) {
             int imin = j;
             for (int i = j; i < arr.length; i++) {
                 if (arr[i] < arr[imin]) {
